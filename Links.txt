@@ -1,0 +1,3 @@
+https://www2.cs.duke.edu/csed/jflap/
+
+https://web.fe.up.pt/~jmpc/courses/tools/TuringMachine/
